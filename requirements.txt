@@ -66,9 +66,9 @@ scipy==1.12.0
 setuptools==68.0.0
 six==1.16.0
 sniffio==1.3.0
-SQLAlchemy==2.0.28
-sqlalchemy2-stubs==0.0.2a36
-sqlmodel==0.0.11
+SQLAlchemy
+sqlalchemy2-stubs
+sqlmodel
 starlette==0.27.0
 threadpoolctl==3.3.0
 typing_extensions==4.8.0
